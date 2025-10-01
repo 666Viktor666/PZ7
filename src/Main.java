@@ -1,4 +1,4 @@
-public class Main {
+public class Main public class Main {
     public static void main(String[] args) {
         // Тестируем сотрудников
         Employee emp1 = new Manager("Анна", 5000);
@@ -13,5 +13,9 @@ public class Main {
 
         shape1.draw();  // Рисуется круг
         shape2.draw();  // Рисуется прямоугольник
+
+        // ↓↓↓ ДОБАВЬ ЗДЕСЬ ↓↓↓
+        System.out.println("Новая фича из main ветки!");
+        // ↑↑↑ ДОБАВЬ ЗДЕСЬ ↑↑↑
     }
 }
