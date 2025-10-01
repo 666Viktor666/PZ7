@@ -1,4 +1,4 @@
-public class Main public class Main {
+public class Main {
     public static void main(String[] args) {
         // Тестируем сотрудников
         Employee emp1 = new Manager("Анна", 5000);
